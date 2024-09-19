@@ -1,0 +1,14 @@
+ACTUAL CONSUMPTION
+Electricity consumed, average values for 15-minute intervals [MWh] – "Total" (grid load) is the net electricity generation minus export transmission capacity, plus import transmission capacity and minus the feed-in capacity from pumped storage power stations – data is provided with a delay of at most one hour [source: ENTSO-E]. "Residual load" is defined as the grid load minus the output from photovoltaic installations and wind power stations (onshore and offshore). "Pumped storage" corresponds to the feed-in capacity from pumped storage power stations, average values for 15-minute intervals [MWh].
+It does not include the use of electrical energy from batteries, including rechargeable ones.
+
+Link to article - https://www.smard.de/blueprint/servlet/page/bnetza-en/wiki-article/5834/6036
+
+FORECASTED CONSUMPTION
+Forecasted electricity consumption for the following day, figures presented as average values for 15 minute intervals [MWh]. The projection is based on the results of day-ahead trading and other empirical data - it is published no later than 2 hours before trading on the local electricity exchange closes (at 10 am) - figures are updated for every change of at least 10% [Source: ENTSO-E]. The forecasted residual load is defined as the forecasted electricity consumption minus the forecasted feed-in from photovoltaic installations and wind power stations (onshore and offshore).
+
+
+ACTUAL GENERATION
+Actual net electricity generation divided according to source of energy generation, presented as average values for 15 minute intervals [MWh] - in part, electricity generation is estimated where data is incomplete. For lack of real data, estimated figures may also be used for the feed in of small installations - data is delivered up to one hour after actual generation. [Source: ENTSO-E]
+Link to article - https://www.smard.de/blueprint/servlet/page/bnetza-en/wiki-article/5834/6124
+
